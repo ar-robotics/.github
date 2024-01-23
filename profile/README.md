@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://hydroplant.no">
+<a href="https://itfag.usn.no/grupper/D03-24/">
   <img src="https://github.com/ar-robotics/.github/blob/main/Kromium.png" style="width:50%"/></p>
  <h1 align="center">Kromium: Pioneering Remote Control in Offshore Energy Operations</h1>
 
